@@ -104,4 +104,4 @@ I propose a **simple regression model** that predicts **crop yield** based on se
 ---
 
 # 🙋 Author  
-This project was completed individually as part of my Emerging AI Technologies coursework.
+This project was completed as part of my Emerging AI Technologies coursework.
