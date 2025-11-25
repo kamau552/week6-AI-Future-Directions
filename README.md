@@ -1,4 +1,4 @@
-#Week 6 Emerging AI Technologies – Practical & Theoretical Exploration
+# Week 6 Emerging AI Technologies – Practical & Theoretical Exploration
 
 This project is part of my assignment on exploring **emerging AI trends**, including Edge AI, AI–IoT systems, and the differences between Quantum AI and classical AI.  
 It contains both **theoretical analysis** and **hands-on implementation** using Python, TensorFlow Lite, and a simulated IoT workflow.
